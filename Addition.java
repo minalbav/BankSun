@@ -4,7 +4,7 @@ public class Addition {
 
 	public static void main(String[] args) {
 		Addition addition = new Addition();
-		int sum = addition.calculateSum(2, 3);
+		int sum = addition.calculateSum(2, 5);
 		System.out.println("Sum from same class calculateSum method = " + sum);
 		
 		ArithmeticOperation ao = new ArithmeticOperation();

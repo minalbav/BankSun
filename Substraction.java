@@ -7,6 +7,7 @@ public class Substraction {
 		
 		
 		System.out.println("Hello");
+		System.out.println("new");	
 	}
 
 }
