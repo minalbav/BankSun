@@ -2,7 +2,9 @@ package com.sit.ObjectClass;
 
 public class Addition {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) 
+		System.out.println("check fetch function");
+		
 		Addition addition = new Addition();
 		int sum = addition.calculateSum(2, 3);
 		System.out.println("Sum from same class calculateSum method = " + sum);
